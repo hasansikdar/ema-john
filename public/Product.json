@@ -1,0 +1,5 @@
+[
+    {"name":"UltraBost 22 Shoes", "price":190, "brand":"Addidas", "Rating":3, "image":"https://images.unsplash.com/photo-1608231387042-66d1773070a5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8c2hvZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=700&q=60"},
+    {"name":"Black 22 Shoes", "price":350, "brand":"Bata", "Rating":4, "image":"https://images.unsplash.com/photo-1626947346165-4c2288dadc2a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8c2hvZXxlbnwwfDB8MHx8&auto=format&fit=crop&w=700&q=60"},
+    {"name":"White 22 Shoes", "price":250, "brand":"Loto", "Rating":5, "image":"https://images.unsplash.com/photo-1545289414-1c3cb1c06238?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTh8fHNob2V8ZW58MHwwfDB8fA%3D%3D&auto=format&fit=crop&w=700&q=60"}
+]

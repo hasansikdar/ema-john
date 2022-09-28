@@ -1,0 +1,35 @@
+.order-summary-details {
+    padding:15px;
+}
+.order-summary-details ul {
+    margin:30px 0;
+}
+.order-summary-details ul li {
+    margin:10px 0;
+}
+.order-summary-details h3 {
+    text-align:center;
+    color:#1C2B35;
+}
+.order-summary-details button {
+    width:100%;
+    padding:10px;
+    margin:6px 0;
+    color:white;
+    border:none;
+    outline:none;
+    border-radius:5px;
+    cursor:pointer;
+}
+.order-summary-details button:hover {
+    font-size:16px;
+}
+.order-summary-details button i {
+    margin-left:10px;
+}
+.order-summary-details .delete {
+    background:#FF3030;
+}
+.order-summary-details .review {
+    background:#FF9900;
+}
